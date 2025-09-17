@@ -5,7 +5,7 @@ Eine Sammlung nützlicher **Ein-Klick-Installationsskripte** für Debian-Server.
 ![Debian](https://img.shields.io/badge/Debian-Server-red?logo=debian&logoColor=white)  
 ![Python](https://img.shields.io/badge/Python-Installer-blue?logo=python&logoColor=white)  
 ![FiveM](https://img.shields.io/badge/FiveM-Server-orange)  
-![PhpMyAdmin](https://img.shields.io/badge/PhpMyAdmin-Setup-green)  
+![PhpMyAdmin](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)
 ![Gitea](https://img.shields.io/badge/Gitea-Git-lightgrey?logo=gitea)  
 ![OpenVPN](https://img.shields.io/badge/OpenVPN-Security-yellow?logo=openvpn)  
 
