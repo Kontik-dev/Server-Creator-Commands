@@ -4,7 +4,7 @@ Eine Sammlung nützlicher **Ein-Klick-Installationsskripte** für Debian-Server.
 
 ![Debian](https://img.shields.io/badge/Debian-Server-red?logo=debian&logoColor=white)  
 ![Python](https://img.shields.io/badge/Python-Installer-blue?logo=python&logoColor=white)  
-![FiveM](https://img.shields.io/badge/GTA%20V-Server-black?color=green)  
+![FiveM](https://img.shields.io/badge/-FiveM-F40552?style=flat&logo=fivem&logoColor=white)  
 ![PhpMyAdmin](https://img.shields.io/badge/PhpMyAdmin-Setup-green?logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjZjZjYjAwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMjAiIGhlaWdodD0iMTIwIiB2aWV3Qm94PSIwIDAgMjU2IDI1NiI+PHBhdGggZD0iTTIwMy4yIDE5MC43Yy02LjQtMzkuMS0xNi44LTc2LjEtMzIuMS0xMTAuM0ExMzIuOCAxMzIuOCAwIDAwMTM2LjIgMCAxMDMuNyAwIDc0LjkgMTIuOCA1My40IDM0LjMgNDAuNyA1NS44IDQzLjUgNTggNTAgNTguOSA2NS4yIDYxLjcgMTAwLjggNjMuNyAxMzguMyA3OC44IDE2Ny41IDEwNS43IDE5MC43IDIwMy4yIDE5MC43eiIvPjwvc3ZnPg==)  
 ![Gitea](https://img.shields.io/badge/Gitea-Git-lightgrey?logo=gitea)  
 ![OpenVPN](https://img.shields.io/badge/OpenVPN-Security-yellow?logo=openvpn)  
