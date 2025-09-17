@@ -1,12 +1,49 @@
-All for Debian
+# 🚀 Server Creator Commands  
 
-PhpmyAdmin;   bash <(curl -s https://raw.githubusercontent.com/Kontik-dev/phpmyadmin-creator/main/php.sh)
+Eine Sammlung nützlicher **Ein-Klick-Installationsskripte** für Debian-Server.  
 
-Python: bash <(curl -s https://raw.githubusercontent.com/Kontik-dev/phpmyadmin-creator/main/py.sh)
+![Debian](https://img.shields.io/badge/Debian-Server-red?logo=debian&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-Installer-blue?logo=python&logoColor=white)  
+![FiveM](https://img.shields.io/badge/FiveM-Server-orange)  
+![PhpMyAdmin](https://img.shields.io/badge/PhpMyAdmin-Setup-green)  
+![Gitea](https://img.shields.io/badge/Gitea-Git-lightgrey?logo=gitea)  
+![OpenVPN](https://img.shields.io/badge/OpenVPN-Security-yellow?logo=openvpn)  
 
-FiveM Installer: bash <(curl -s https://raw.githubusercontent.com/Kontik-dev/phpmyadmin-creator/main/fiveminstaller.sh)
+---
 
-Gitea: bash <(curl -s https://raw.githubusercontent.com/Kontik-dev/Server-Creator-Commands/refs/heads/main/gitea.sh)
-  
+## 📦 Installer Übersicht
 
-By https://github.com/Squex0978
+### 🗂 PhpMyAdmin
+```bash
+bash <(curl -s https://raw.githubusercontent.com/Kontik-dev/phpmyadmin-creator/main/php.sh)
+```
+
+### 🐍 Python
+```bash
+bash <(curl -s https://raw.githubusercontent.com/Kontik-dev/phpmyadmin-creator/main/py.sh)
+```
+
+### 🎮 FiveM Installer
+```bash
+bash <(curl -s https://raw.githubusercontent.com/Kontik-dev/phpmyadmin-creator/main/fiveminstaller.sh)
+```
+
+### 🛠 Gitea
+```bash
+bash <(curl -s https://raw.githubusercontent.com/Kontik-dev/Server-Creator-Commands/refs/heads/main/gitea.sh)
+```
+
+---
+
+## 🔐 OpenVPN Setup
+```bash
+cd /tmp
+wget https://raw.githubusercontent.com/Angristan/OpenVPN-install/master/openvpn-install.sh
+chmod +x openvpn.sh
+./openvpn.sh
+```
+
+---
+
+## 👤 Author
+Made with ❤️ by [Squex0978](https://github.com/Squex0978)
