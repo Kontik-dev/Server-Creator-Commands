@@ -38,7 +38,7 @@ bash <(curl -s https://raw.githubusercontent.com/Kontik-dev/Server-Creator-Comma
 ## 🔐 OpenVPN Setup
 ```bash
 cd /tmp
-wget https://raw.githubusercontent.com/Angristan/OpenVPN-install/master/openvpn-install.sh
+wget https://raw.githubusercontent.com/Kontik-dev/Server-Creator-Commands/refs/heads/main/openvpn.sh
 chmod +x openvpn.sh
 ./openvpn.sh
 ```
