@@ -1,6 +1,6 @@
 # 🚀 Server Creator Commands  
 
-Eine Sammlung nützlicher **Ein-Klick-Installationsskripte** für Debian-Server.  
+A collection of useful one-click installation scripts for Debian servers.  
 
 ![Debian](https://img.shields.io/badge/Debian-Server-red?logo=debian&logoColor=white)  
 ![Python](https://img.shields.io/badge/Python-Installer-blue?logo=python&logoColor=white)  
@@ -11,7 +11,7 @@ Eine Sammlung nützlicher **Ein-Klick-Installationsskripte** für Debian-Server.
 
 ---
 
-## 📦 Installer Übersicht
+## 📦 Installer Overview
 
 ### 🗂 PhpMyAdmin
 ```bash
