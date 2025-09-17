@@ -45,5 +45,5 @@ chmod +x openvpn.sh
 
 ---
 
-## 👤 Author
-Made with ❤️ by [Squex0978](https://github.com/Squex0978)
+## 👤 Backup
+Backup with ❤️ by [Squex0978](https://github.com/Squex0978)
